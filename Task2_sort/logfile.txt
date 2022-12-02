@@ -1,0 +1,12 @@
+дек. 02, 2022 10:50:33 AM AddClasses sortArray
+INFO: Произведена 1-ая итерация
+дек. 02, 2022 10:50:33 AM AddClasses sortArray
+INFO: Произведена 2-ая итерация
+дек. 02, 2022 10:50:33 AM AddClasses sortArray
+INFO: Произведена 3-ая итерация
+дек. 02, 2022 10:50:33 AM AddClasses sortArray
+INFO: Произведена 4-ая итерация
+дек. 02, 2022 10:50:33 AM AddClasses finalLogging
+INFO: Результат сортировки: 
+дек. 02, 2022 10:50:33 AM AddClasses finalLogging
+INFO: [2,3,3,6,7,8,10,15]
