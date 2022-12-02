@@ -52,16 +52,16 @@ public class AddClasses {
         }
     }
 
-    public void finalLogging() {
+    public void addLogging(String note, int[] arr) {
         StringBuilder sb = new StringBuilder();
         sb.append("[");
-        for (int i: this.arrInitial) {
+        for (int i: arr) {
             sb.append(i);
             sb.append(",");
         }
         sb.deleteCharAt(sb.length() - 1);
         sb.append("]");
-        this.loggingAtrr.log(Level.INFO, "Результат сортировки: ");
+        this.loggingAtrr.log(Level.INFO, note);
         this.loggingAtrr.log(Level.INFO, sb.toString());
 
     }

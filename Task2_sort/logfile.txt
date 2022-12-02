@@ -1,12 +1,16 @@
-дек. 02, 2022 10:50:33 AM AddClasses sortArray
+дек. 02, 2022 11:07:31 AM AddClasses addLogging
+INFO: Первоначальный массив: 
+дек. 02, 2022 11:07:31 AM AddClasses addLogging
+INFO: [7,6,3,2,3,10,15,8]
+дек. 02, 2022 11:07:31 AM AddClasses sortArray
 INFO: Произведена 1-ая итерация
-дек. 02, 2022 10:50:33 AM AddClasses sortArray
+дек. 02, 2022 11:07:31 AM AddClasses sortArray
 INFO: Произведена 2-ая итерация
-дек. 02, 2022 10:50:33 AM AddClasses sortArray
+дек. 02, 2022 11:07:31 AM AddClasses sortArray
 INFO: Произведена 3-ая итерация
-дек. 02, 2022 10:50:33 AM AddClasses sortArray
+дек. 02, 2022 11:07:31 AM AddClasses sortArray
 INFO: Произведена 4-ая итерация
-дек. 02, 2022 10:50:33 AM AddClasses finalLogging
-INFO: Результат сортировки: 
-дек. 02, 2022 10:50:33 AM AddClasses finalLogging
+дек. 02, 2022 11:07:31 AM AddClasses addLogging
+INFO: Сортированный массив: 
+дек. 02, 2022 11:07:31 AM AddClasses addLogging
 INFO: [2,3,3,6,7,8,10,15]

@@ -4,8 +4,9 @@ public class Sortprog {
         
         AddClasses obj = new AddClasses(arr);
         obj.creatLogFile();
+        obj.addLogging("Первоначальный массив: ", arr);
         obj.sortArray();
-        obj.finalLogging();
+        obj.addLogging("Сортированный массив: ", obj.arrInitial);
 
     }
 }
